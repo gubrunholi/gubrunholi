@@ -72,6 +72,7 @@ Projeto web inspirado em Star Wars
 <p align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=gubrunholi&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🚀 Objetivos
@@ -98,6 +99,7 @@ Projeto web inspirado em Star Wars
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
