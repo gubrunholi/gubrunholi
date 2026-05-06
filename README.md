@@ -40,7 +40,7 @@ Projeto web inspirado em Star Wars
 - Estrutura com múltiplas páginas  
 - Desenvolvimento com HTML, CSS e JavaScript  
 
-📌 *Adicione aqui o link do repositório quando subir*
+<img src="/assets/wookipedia.png">
 
 ---
 
@@ -70,8 +70,8 @@ Projeto web inspirado em Star Wars
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gubrunholi&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubrunholi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ Projeto web inspirado em Star Wars
 ## 📫 Contato
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="http://www.linkedin.com/in/gustavo-brunholi">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
