@@ -67,11 +67,10 @@ Projeto web inspirado em Star Wars
 
 ---
 
-## 📈 Estatísticas
+## 📈 Atividade no GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gubrunholi&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gubrunholi&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=gubrunholi&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
