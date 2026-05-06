@@ -1,9 +1,104 @@
-# 💫 Sobre Mim:
-Recém-formado em Ensino Médio Técnico em Tecnologia da Informação, com interesse em Análise de Dados. Possuo base em lógica de programação, organização e interpretação de dados, informática e uso de ferramentas tecnológicas, adquirida por meio de projetos acadêmicos.<br>Tenho facilidade com análise, raciocínio lógico e aprendizado rápido, além de interesse em transformar dados em informações úteis para a tomada de decisão. Busco oportunidade como estagiário ou júnior em Análise de Dados, com foco em desenvolvimento técnico e crescimento profissional.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Gustavo%20Brunholi&fontSize=35&fontColor=00f7ff"/>
+</p>
 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Gustavo Brunholi</h1>
+<p align="center">
+  🚀 Desenvolvedor em evolução | 📊 Futuro Data Analyst | 💡 Tecnologia & Dados
+</p>
 
-## 🌐 Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g.brunholi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavo-brunholi) 
+---
 
-# 💻 Conjunto de Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+## 🧠 Sobre mim
+
+Estudante focado em tecnologia, com experiência em desenvolvimento e construção de lógica através de Java e projetos web.
+
+Buscando evoluir para a área de **Análise de Dados**, aplicando programação na resolução de problemas reais.
+
+---
+
+## ⚙️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github"/>
+</p>
+
+- 💻 Java (lógica e algoritmos)  
+- 🌐 HTML, CSS, JavaScript  
+- 🐍 Python (em aprendizado)  
+- 🛠️ Git e GitHub  
+
+---
+
+## 📂 Projetos
+
+### 🌌 Wookipedia
+Projeto web inspirado em Star Wars
+
+- Interface temática (dark + espacial)  
+- Estrutura com múltiplas páginas  
+- Desenvolvimento com HTML, CSS e JavaScript  
+
+📌 *Adicione aqui o link do repositório quando subir*
+
+---
+
+## 💻 Exercícios em Java (Lógica & Algoritmos)
+
+📌 Repositório focado em desenvolvimento de lógica de programação  
+
+### 🔹 Estruturas básicas
+- Entrada e saída de dados  
+- Condicionais (if/else)  
+- Estruturas de repetição (while, for)  
+
+### 🔹 Vetores e Arrays
+- Manipulação de listas de números  
+- Cálculo de médias  
+- Ordenação e inversão de valores  
+
+### 🔹 Problemas resolvidos
+- Cálculo de média de valores  
+- Identificação de números maiores/menores  
+- Processamento de dados inseridos pelo usuário  
+
+📊 **Objetivo:** desenvolver raciocínio lógico e base sólida para programação e análise de dados  
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Objetivos
+
+- Evoluir em Python para análise de dados  
+- Trabalhar com Pandas e visualização  
+- Criar projetos reais com dados  
+- Conseguir primeira oportunidade na área tech  
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Disciplina supera talento"
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer"/>
+</p>
