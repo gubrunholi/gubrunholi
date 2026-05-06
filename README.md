@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Gustavo%20Brunholi&fontSize=35&fontColor=00f7ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Gustavo%20Brunholi&fontSize=35&fontColor=341539"/>
 </p>
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Gustavo Brunholi</h1>
@@ -69,10 +69,8 @@ Projeto web inspirado em Star Wars
 
 ## 📈 Estatísticas
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gubrunholi&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubrunholi&layout=compact&theme=tokyonight"/>
-</p>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gubrunholi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubrunholi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
